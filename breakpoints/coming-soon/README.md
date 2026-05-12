@@ -22,7 +22,7 @@
 
 ![Coming soon page target](../../sources/breakpoints-page-step0.jpg)
 
-5. Используя эмулятор, протестируйте вёрстку на iPhone 4:
+5. Используя эмулятор, протестируйте вёрстку на iPhone SE:
 
 ![Coming soon page target small screen](../../sources/breakpoints-page-step1.jpg)
 
